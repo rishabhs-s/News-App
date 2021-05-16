@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263213639687",
+    "project_id": "news-app-7b38a",
+    "storage_bucket": "news-app-7b38a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263213639687:android:1595499c183f0512e9e2a2",
+        "android_client_info": {
+          "package_name": "com.rish.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263213639687-77obm98n18m0bhgmbgre5l9rmihb9ea6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWK0ibdb7RsVf8x7otvSayoOj2TSCXBDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263213639687-77obm98n18m0bhgmbgre5l9rmihb9ea6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
